@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/body_mass_calculator/BuildConfig.java
+ com.example.body_mass_calculator.BuildConfig
